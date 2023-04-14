@@ -1,1 +1,1 @@
-# Capstone-1Store
+# capstone-1store
